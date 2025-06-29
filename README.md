@@ -1,2 +1,2 @@
 # kazoo
-The official repository of the Katools release package.
+The official repository of the Katools package installer.
