@@ -51,6 +51,7 @@ Once installed, you can use Kazoo from the command line. Here are some common co
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
+Wanna add your software to the source list? E-mail me at kazoo@spamska.com so we could consult and create a Makefile for your project in our backend.
 ## License
 Kazoo is licensed under the Free and Fair License. See the LICENSE file for details.
 
