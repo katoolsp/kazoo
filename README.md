@@ -34,8 +34,7 @@ Once installed, you can use Kazoo from the command line. Here are some common co
   ```bash
   kazoo
   ```
-  > [!NOTICE]
-  > It is highly recommended to run all install, remove, and update commmands in Kazoo with super-user privilege to avoid permission and package list issues.
+  > !!Notice!!: It is highly recommended to run all install, remove, and update commmands in Kazoo with super-user privilege to avoid permission and package list issues.
 - Install a Package:
   ```bash
   sudo kazoo -i <e.g. hello, neofetch>
